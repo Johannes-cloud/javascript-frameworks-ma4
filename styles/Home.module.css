@@ -1,0 +1,9 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 800px;
+  padding: 50px;
+  margin: auto;
+  width: 50%;
+}
